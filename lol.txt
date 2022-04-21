@@ -1,5 +1,5 @@
     # Create global variables
-    lollol
+    lollollol
     global purchase_section_label
     global purchase_frame_label
     global purchase_frame
